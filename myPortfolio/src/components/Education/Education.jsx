@@ -9,11 +9,10 @@ const Education = () => {
         <h1>Education</h1>
         <img src={theme_pattern} alt="" />
       </div>
-
       <div className="bachelor">
         <h1>Bachelor Of Technology</h1>
         <h2>NIT Allahabad</h2>
-        <p> CGPA-7.21 (2023)</p>
+        <p> CGPA - 7.21 (2023)</p>
       </div>
       <div className="class-12">
         <h1>Class 12</h1>
