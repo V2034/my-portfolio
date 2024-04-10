@@ -10,15 +10,15 @@ const Hero = () => {
       <h1>
         <span>I'm Vikash Jerai,</span> Software Engineer in Magicbricks.
       </h1>
-      <p>I'm android developer in Bengaluru</p>
-      <div className="hero-action">
+      {/* <p>I'm android developer in Bengaluru</p> */}
+      {/* <div className="hero-action">
         <div className="hero-connect">
           <AnchorLink className="anchor-link" offset={50} href="#contact">
             Connect With Me
           </AnchorLink>
         </div>
         <div className="hero-resume">My Resume</div>
-      </div>
+      </div> */}
     </div>
   );
 };

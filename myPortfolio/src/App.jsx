@@ -5,6 +5,8 @@ import About from "./components/About/About";
 import MyWork from "./components/MyWork/MyWork";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
+import Experience from "./components/Experience/Experience";
+import Education from "./components/Education/Education";
 
 function App() {
   return (
@@ -12,9 +14,11 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <MyWork />
+      <Education />
+      <Experience />
+      {/* <MyWork /> */}
       <Contact />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

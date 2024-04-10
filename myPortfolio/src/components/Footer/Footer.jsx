@@ -6,7 +6,7 @@ import user_icon from "../../assets/user_icon.svg";
 const Footer = () => {
   return (
     <div className="footer">
-      <div className="footer-top">
+      {/* <div className="footer-top">
         <div className="footer-top-left">
           <img src={footer_logo} alt="" />
           <p>I'm android developer in magicbricks from july 2023 </p>
@@ -18,7 +18,7 @@ const Footer = () => {
           </div>
           <div className="footer-subscribe">Subscribe</div>
         </div>
-      </div>
+      </div> */}
       <hr />
       <div className="footer-bottom">
         <p className="footer-bottom-left">
