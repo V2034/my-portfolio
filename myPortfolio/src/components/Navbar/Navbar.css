@@ -49,7 +49,11 @@
 }
 @media (max-width: 1000px) {
   .navbar {
-    margin: 20px 50px;
+    margin: 40px 50px;
+  }
+  .logo {
+    width: 60px;
+    height: 60px;
   }
   .nav-connect {
     display: none;
